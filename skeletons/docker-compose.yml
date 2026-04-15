@@ -19,7 +19,7 @@ version: '3.8'
 # Un service = un conteneur dans la composition
 # Cette application a 2 services: web (Node.js) et db (PostgreSQL)
 
-services:
+services: 
 
   # ====================================================================
   # SERVICE 1: Application Web (Node.js)
@@ -28,11 +28,11 @@ services:
     # Construire l'image à partir du Dockerfile
     build:
       context: .              # Dossier parent (où se trouve le Dockerfile)
-      dockerfile: ???         # Tâche: Quel est le chemin du Dockerfile?
+      dockerfile: ???        # Tâche: Quel est le chemin du Dockerfile?
 
     # Nom du conteneur (pour faciliter les tests/debug)
     # Conseil: Utilisez votre nom pour personnaliser
-    container_name: ???        # Tâche: expense-tracker-nodejs ou expense-tracker-[votre nom sans esoace ou vos initiales]
+    container_name: expense-tracker-nodejs:JeanClaraMartinez       # Tâche: expense-tracker-nodejs ou expense-tracker-[votre nom sans esoace ou vos initiales]
 
     # Charger les variables d'environnement depuis .env.docker
     # En local: Docker Compose charge depuis .env.docker

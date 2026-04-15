@@ -1,6 +1,6 @@
 /**
  * Server Entry Point
- * Express.js application for Expense Tracker
+ * Jean Clara Martinez Express.js application for Expense Tracker
  * Module 8 - Expense Tracker - Node.js Implementation
  */
 

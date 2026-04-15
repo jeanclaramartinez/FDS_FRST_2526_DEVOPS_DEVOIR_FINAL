@@ -138,6 +138,12 @@ Créé pour le cours DevOps - Session 2025-2026
 
 ---
 
+
+## 👤 Student
+
+Jean Clara Martinez - Session 2025-2026
+
+
 ## 📄 Licence
 
 MIT
