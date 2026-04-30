@@ -1,4 +1,4 @@
-/**
+/** Clara Martinez's expense Tracker
  * Server Entry Point
  * Express.js application for Expense Tracker
  * Module 8 - Expense Tracker - Node.js Implementation

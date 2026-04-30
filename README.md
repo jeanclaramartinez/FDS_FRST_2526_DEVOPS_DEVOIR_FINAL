@@ -137,6 +137,9 @@ npm test
 Créé pour le cours DevOps - Session 2025-2026
 
 ---
+## 👤 Student
+
+Clara M. JEAN
 
 ## 📄 Licence
 
