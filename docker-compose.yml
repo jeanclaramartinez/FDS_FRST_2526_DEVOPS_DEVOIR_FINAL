@@ -84,7 +84,7 @@ services:
                                # Conseil: Cherchez sur hub.docker.com
 
     # Nom du conteneur
-    container_name:  expenses_db         # Tâche: Nommez le conteneur PostgreSQL
+    container_name:  expenses_db        # Tâche: Nommez le conteneur PostgreSQL
 
     # Configuration PostgreSQL
     environment:
